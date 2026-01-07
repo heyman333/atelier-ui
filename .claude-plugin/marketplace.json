@@ -9,7 +9,7 @@
   },
   "plugins": [
     {
-      "name": "heyman333@atelier-ui",
+      "name": "heyman333",
       "source": "./",
       "description": "Create distinctive, production-grade frontend interfaces with high editorial design quality",
       "version": "1.0.0",
