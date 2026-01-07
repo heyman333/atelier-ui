@@ -1,0 +1,23 @@
+{
+  "name": "atelier-ui",
+  "owner": {
+    "name": "heyman333",
+    "email": "heyman333@github.com"
+  },
+  "metadata": {
+    "description": "Editorial-driven UI design skills for premium digital products"
+  },
+  "plugins": [
+    {
+      "name": "heyman333",
+      "source": ".",
+      "description": "Create distinctive, production-grade frontend interfaces with high editorial design quality",
+      "version": "1.0.0",
+      "author": {
+        "name": "heyman333"
+      },
+      "keywords": ["ui", "design", "frontend", "editorial", "fashion"],
+      "category": "design"
+    }
+  ]
+}

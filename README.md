@@ -4,7 +4,18 @@ Editorial-driven UI design skill for premium digital products.
 
 ## Installation
 
-**Global (all projects):**
+**Via Marketplace:**
+```bash
+claude /plugin marketplace add heyman333/atelier-ui
+claude /plugin install heyman333@atelier-ui
+```
+
+To update:
+```bash
+claude /plugin marketplace update atelier-ui
+```
+
+**Direct install:**
 ```bash
 claude /plugin install https://github.com/heyman333/atelier-ui
 ```
