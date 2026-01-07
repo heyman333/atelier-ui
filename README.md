@@ -15,21 +15,6 @@ To update:
 claude /plugin marketplace update atelier-ui
 ```
 
-**Direct install:**
-```bash
-claude /plugin install https://github.com/heyman333/atelier-ui
-```
-
-**Project only:**
-```bash
-claude /plugin install https://github.com/heyman333/atelier-ui --local
-```
-
-**Local development:**
-```bash
-claude --plugin-dir ./atelier-ui
-```
-
 ## Overview
 
 Atelier UI brings the refined aesthetic of fashion editorials and magazine layouts to digital product design. When activated, Claude designs interfaces that feel curated, confident, and intentional.
