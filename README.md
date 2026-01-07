@@ -4,12 +4,17 @@ Editorial-driven UI design skill for premium digital products.
 
 ## Installation
 
+**Global (all projects):**
 ```bash
-claude /plugin install <marketplace-url>/atelier-ui
+claude /plugin install https://github.com/heyman333/atelier-ui
 ```
 
-Or for local development:
+**Project only:**
+```bash
+claude /plugin install https://github.com/heyman333/atelier-ui --local
+```
 
+**Local development:**
 ```bash
 claude --plugin-dir ./atelier-ui
 ```
