@@ -1,0 +1,9 @@
+{
+  "name": "atelier-ui",
+  "description": "Editorial-driven UI design skill for premium digital products",
+  "version": "1.0.0",
+  "author": {
+    "name": "zero"
+  },
+  "license": "MIT"
+}
