@@ -15,6 +15,16 @@ To update:
 claude /plugin marketplace update atelier-ui
 ```
 
+**Codex (project-scoped):**
+1) Add `skills/editorial-designer/` to your repo
+2) Register it in `README.md` or `AGENTS.md`:
+   - editorial-designer: ... (file: skills/editorial-designer/SKILL.md)
+3) Use: `$editorial-designer <request>`
+
+**Codex (global):**
+1) Copy the folder to `$CODEX_HOME/skills/editorial-designer` (usually `~/.codex/skills/`)
+2) Use: `$editorial-designer <request>`
+
 ## Overview
 
 Atelier UI brings the refined aesthetic of fashion editorials and magazine layouts to digital product design. When activated, Claude designs interfaces that feel curated, confident, and intentional.
