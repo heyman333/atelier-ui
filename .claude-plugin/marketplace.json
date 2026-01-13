@@ -9,14 +9,25 @@
   },
   "plugins": [
     {
-      "name": "heyman333",
-      "source": "./",
+      "name": "editorial-designer",
+      "source": "./skills/editorial-designer",
       "description": "Create distinctive, production-grade frontend interfaces with high editorial design quality",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": {
         "name": "heyman333"
       },
       "keywords": ["ui", "design", "frontend", "editorial", "fashion"],
+      "category": "design"
+    },
+    {
+      "name": "apple-ui-designer",
+      "source": "./skills/apple-ui-designer",
+      "description": "Redesign mobile app UI to feel unmistakably Apple-like, iOS-forward, and native",
+      "version": "1.1.0",
+      "author": {
+        "name": "heyman333"
+      },
+      "keywords": ["ui", "design", "ios", "apple", "hig", "native"],
       "category": "design"
     }
   ]

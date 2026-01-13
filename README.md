@@ -1,6 +1,13 @@
 # Atelier UI
 
-Editorial-driven UI design skill for premium digital products.
+A collection of UI design skills for premium digital products.
+
+## Available Skills
+
+| Skill | Description |
+|-------|-------------|
+| `editorial-designer` | Editorial/fashion magazine aesthetic for lifestyle apps |
+| `apple-ui-designer` | iOS Human Interface Guidelines, native Apple feel |
 
 ## Installation
 
@@ -16,18 +23,25 @@ claude /plugin marketplace update atelier-ui
 ```
 
 **Codex (project-scoped):**
-1) Add `skills/editorial-designer/` to your repo
+1) Add `skills/<skill-name>/` to your repo
 2) Register it in `README.md` or `AGENTS.md`:
    - editorial-designer: ... (file: skills/editorial-designer/SKILL.md)
-3) Use: `$editorial-designer <request>`
+   - apple-ui-designer: ... (file: skills/apple-ui-designer/SKILL.md)
+3) Use: `$editorial-designer <request>` or `$apple-ui-designer <request>`
 
 **Codex (global):**
-1) Copy the folder to `$CODEX_HOME/skills/editorial-designer` (usually `~/.codex/skills/`)
-2) Use: `$editorial-designer <request>`
+1) Copy the folder to `$CODEX_HOME/skills/<skill-name>` (usually `~/.codex/skills/`)
+2) Use: `$editorial-designer <request>` or `$apple-ui-designer <request>`
 
 ## Overview
 
-Atelier UI brings the refined aesthetic of fashion editorials and magazine layouts to digital product design. When activated, Claude designs interfaces that feel curated, confident, and intentional.
+Atelier UI provides multiple design skills for different aesthetics:
+
+### editorial-designer
+Brings the refined aesthetic of fashion editorials and magazine layouts to digital product design. Interfaces feel curated, confident, and intentional.
+
+### apple-ui-designer
+Applies iOS Human Interface Guidelines and modern Apple design language. Interfaces feel native, calm, and inevitable — like first-party Apple apps.
 
 ## Design Example
 
@@ -50,20 +64,17 @@ This example showcases a fashion e-commerce app designed with Atelier UI princip
 - **Minimal affordances** — Flat buttons, text-based actions, trust user intuition
 - **Subtle motion** — Opacity, translate, scale ≤ 1.05. No bounce or spring.
 
-## When This Skill Activates
+## When to Use Each Skill
 
-Claude automatically uses this skill when you ask to:
-
-- Build web components or pages
-- Create landing pages or dashboards
-- Design React/Vue/HTML components
-- Style or beautify any web UI
-
-## Target Context
-
-- 20s–30s urban users
-- iOS-first mobile apps
+### editorial-designer
 - Fashion, lifestyle, and premium brand experiences
+- Landing pages with bold typography
+- 20s-30s urban audience targeting
+
+### apple-ui-designer
+- iOS-native mobile apps
+- Apps following Human Interface Guidelines
+- Native-feeling system UI components
 
 ## License
 
