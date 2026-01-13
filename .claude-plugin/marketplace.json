@@ -9,7 +9,7 @@
   },
   "plugins": [
     {
-      "name": "atelier-ui",
+      "name": "heyman333",
       "source": "./",
       "description": "A collection of UI design skills: editorial-designer (fashion/magazine aesthetic) and apple-ui-designer (iOS HIG native feel)",
       "version": "1.1.0",
