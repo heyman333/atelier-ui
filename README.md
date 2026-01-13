@@ -43,11 +43,13 @@ Brings the refined aesthetic of fashion editorials and magazine layouts to digit
 ### apple-ui-designer
 Applies iOS Human Interface Guidelines and modern Apple design language. Interfaces feel native, calm, and inevitable — like first-party Apple apps.
 
-## Design Example
+## Design Examples
 
-![Atelier UI Design Example](images/image.jpg)
+### Editorial Designer
 
-This example showcases a fashion e-commerce app designed with Atelier UI principles:
+![Editorial Design Example](images/image.jpg)
+
+This example showcases a fashion e-commerce app designed with editorial principles:
 
 - **Bold Typography** — "GET READY TO SLAY IN STYLE" demonstrates confident, editorial-style headlines
 - **Dark & Light Contrast** — Strategic use of dark cards against light backgrounds creates visual depth
@@ -55,6 +57,19 @@ This example showcases a fashion e-commerce app designed with Atelier UI princip
 - **Minimal UI Chrome** — Clean buttons, subtle icons, and text-based navigation reduce visual noise
 - **Card-Based Layout** — Rounded corners and generous padding create a premium, tactile feel
 - **Whitespace as Design** — Intentional breathing room guides the eye and elevates content
+
+### Apple UI Designer
+
+![Apple Music UX Case Study - Dock](images/apple.png)
+
+This Apple Music "Now Playing" UX case study demonstrates Apple-native design principles:
+
+- **Translucency & Depth** — Frosted glass dock and sheets create layered visual hierarchy
+- **Progressive Disclosure** — Information reveals contextually through swipe-up dock interaction
+- **System-like Components** — Native bottom sheets, standard iOS control layouts
+- **Touch Target Clarity** — Large, comfortable hit areas for playback controls
+- **Color Restraint** — Accent color (pink) used sparingly, letting content breathe
+- **Gesture-first Design** — Swipe-up dock, drag-to-dismiss sheets feel native to iOS
 
 ## Design Principles
 
@@ -75,6 +90,56 @@ This example showcases a fashion e-commerce app designed with Atelier UI princip
 - iOS-native mobile apps
 - Apps following Human Interface Guidelines
 - Native-feeling system UI components
+
+## Contributing
+
+We welcome contributions! Here's how to submit a PR:
+
+### Adding a New Design Example
+
+1. **Fork** this repository
+2. **Add your image** to `images/` directory
+3. **Update documentation**:
+   - Add example section in main `README.md` under "Design Examples"
+   - If skill-specific, update the skill's `README.md` (e.g., `skills/apple-ui-designer/README.md`)
+4. **Submit PR** with:
+   - Clear title describing the addition
+   - Screenshot/image in PR description
+   - Brief explanation of design principles demonstrated
+
+### Updating Design Guidelines
+
+1. **Fork** this repository
+2. **Edit** the relevant `SKILL.md` file:
+   - `skills/editorial-designer/SKILL.md`
+   - `skills/apple-ui-designer/SKILL.md`
+3. **Submit PR** with:
+   - Rationale for the change
+   - Examples demonstrating the updated guideline
+
+### PR Template
+
+```markdown
+## Summary
+Brief description of changes
+
+## Type
+- [ ] New design example
+- [ ] Design guideline update
+- [ ] Documentation fix
+- [ ] New skill
+
+## Checklist
+- [ ] Images optimized (< 1MB recommended)
+- [ ] Documentation updated
+- [ ] Follows existing style conventions
+```
+
+### Code of Conduct
+
+- Keep PRs focused and atomic
+- Provide visual examples when adding design guidelines
+- Respect the existing design philosophy of each skill
 
 ## License
 
