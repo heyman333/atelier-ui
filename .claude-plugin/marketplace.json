@@ -9,25 +9,14 @@
   },
   "plugins": [
     {
-      "name": "editorial-designer",
-      "source": "./skills/editorial-designer",
-      "description": "Create distinctive, production-grade frontend interfaces with high editorial design quality",
+      "name": "atelier-ui",
+      "source": "./",
+      "description": "A collection of UI design skills: editorial-designer (fashion/magazine aesthetic) and apple-ui-designer (iOS HIG native feel)",
       "version": "1.1.0",
       "author": {
         "name": "heyman333"
       },
-      "keywords": ["ui", "design", "frontend", "editorial", "fashion"],
-      "category": "design"
-    },
-    {
-      "name": "apple-ui-designer",
-      "source": "./skills/apple-ui-designer",
-      "description": "Redesign mobile app UI to feel unmistakably Apple-like, iOS-forward, and native",
-      "version": "1.1.0",
-      "author": {
-        "name": "heyman333"
-      },
-      "keywords": ["ui", "design", "ios", "apple", "hig", "native"],
+      "keywords": ["ui", "design", "frontend", "editorial", "fashion", "ios", "apple", "hig", "native"],
       "category": "design"
     }
   ]
