@@ -91,6 +91,28 @@ This Apple Music "Now Playing" UX case study demonstrates Apple-native design pr
 - Apps following Human Interface Guidelines
 - Native-feeling system UI components
 
+## Usage Examples
+
+### editorial-designer
+
+```
+editorial-designer 스킬을 사용해서 App.css를 수정해줘
+```
+
+```
+Use editorial-designer to redesign my landing page with fashion magazine aesthetics
+```
+
+### apple-ui-designer
+
+```
+apple-ui-designer 스킬로 설정 화면을 iOS 네이티브 스타일로 바꿔줘
+```
+
+```
+Use apple-ui-designer to make my app feel like a native iOS application
+```
+
 ## Contributing
 
 We welcome contributions! Here's how to submit a PR:
