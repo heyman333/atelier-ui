@@ -8,6 +8,7 @@ A collection of UI design skills for premium digital products.
 |-------|-------------|
 | `editorial-designer` | Editorial/fashion magazine aesthetic for lifestyle apps |
 | `apple-ui-designer` | iOS Human Interface Guidelines, native Apple feel |
+| `ios-glass-ui-designer` | iOS-native glass materials (translucency, blur, depth) with restraint |
 
 ## Installation
 
@@ -42,6 +43,9 @@ Brings the refined aesthetic of fashion editorials and magazine layouts to digit
 
 ### apple-ui-designer
 Applies iOS Human Interface Guidelines and modern Apple design language. Interfaces feel native, calm, and inevitable — like first-party Apple apps.
+
+### ios-glass-ui-designer
+Applies iOS material system with tasteful glass effects (translucency, blur, depth). Glass is used as a tool for hierarchy and focus — not as decoration. Perfect for modern iOS interfaces that need layered depth without overdoing glassmorphism.
 
 ## Design Examples
 
@@ -91,6 +95,11 @@ This Apple Music "Now Playing" UX case study demonstrates Apple-native design pr
 - Apps following Human Interface Guidelines
 - Native-feeling system UI components
 
+### ios-glass-ui-designer
+- iOS apps with layered UI (sheets, overlays, floating controls)
+- Interfaces needing depth and material hierarchy
+- Modern iOS aesthetic with restrained glassmorphism
+
 ## Usage Examples
 
 ### editorial-designer
@@ -111,6 +120,16 @@ apple-ui-designer 스킬로 설정 화면을 iOS 네이티브 스타일로 바�
 
 ```
 Use apple-ui-designer to make my app feel like a native iOS application
+```
+
+### ios-glass-ui-designer
+
+```
+ios-glass-ui-designer 스킬로 바텀시트에 글래스 효과 적용해줘
+```
+
+```
+Use ios-glass-ui-designer to add tasteful glass materials to my navigation overlay
 ```
 
 ## Contributing
