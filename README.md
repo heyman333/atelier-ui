@@ -75,6 +75,19 @@ This Apple Music "Now Playing" UX case study demonstrates Apple-native design pr
 - **Color Restraint** — Accent color (pink) used sparingly, letting content breathe
 - **Gesture-first Design** — Swipe-up dock, drag-to-dismiss sheets feel native to iOS
 
+### iOS Glass UI Designer
+
+![iOS Glass UI - Widgets](images/glass-ui.webp)
+
+This iOS home screen demonstrates the glass material system in action:
+
+- **Material Hierarchy** — Different blur/opacity levels based on content needs (weather vs reminders vs controls)
+- **Background Adaptation** — Glass intensity scales with background complexity
+- **Legibility First** — Text remains clear despite translucency
+- **Restraint** — Glass only where it aids hierarchy, not everywhere
+- **Depth Without Borders** — Separation achieved through material, not outlines
+- **System Consistency** — All glass surfaces feel unified and native
+
 ## Design Principles
 
 - **Typography-first** — Large, expressive headlines with strong visual hierarchy
@@ -154,6 +167,7 @@ We welcome contributions! Here's how to submit a PR:
 2. **Edit** the relevant `SKILL.md` file:
    - `skills/editorial-designer/SKILL.md`
    - `skills/apple-ui-designer/SKILL.md`
+   - `skills/ios-glass-ui-designer/SKILL.md`
 3. **Submit PR** with:
    - Rationale for the change
    - Examples demonstrating the updated guideline
