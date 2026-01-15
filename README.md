@@ -14,13 +14,13 @@ A collection of UI design skills for premium digital products.
 
 **Via Marketplace:**
 ```bash
-claude /plugin marketplace add heyman333/atelier-ui
-claude /plugin install heyman333@atelier-ui
+claude plugin marketplace add heyman333/atelier-ui
+claude plugin install heyman333@atelier-ui
 ```
 
 To update:
 ```bash
-claude /plugin marketplace update atelier-ui
+claude plugin marketplace update atelier-ui
 ```
 
 **Codex (project-scoped):**
